@@ -1,2 +1,2 @@
 # vrp
-基于 vue3 的快速 UI 原型构建工具
+Rapid UI prototyping tool based on vue3
