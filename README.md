@@ -1,2 +1,2 @@
 # vrp
-Rapid UI prototyping tool based on vue3
+rapid UI prototyping tool based on vue3
